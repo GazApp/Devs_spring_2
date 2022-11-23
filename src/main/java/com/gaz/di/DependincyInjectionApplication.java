@@ -22,7 +22,13 @@ public class DependincyInjectionApplication {
 	
 	System.out.println(coche);
 		
-		/* INYECCION POR CONSTRUCTOR*/
+		/* INYECCION POR CONSTRUCTOR:
+		/*  INYECCION POR CONSTRUCTOR
+		 *   LA MEJOR PRATICA:
+		 * - SETTER 
+		 * - CONSTRUCTOR  POR QUE SON MAS
+		 *   FACILES DE PROBAR QUE LA INYECCION POR
+		 *   ATRIBUTOS*/*/
 	
 
 		
