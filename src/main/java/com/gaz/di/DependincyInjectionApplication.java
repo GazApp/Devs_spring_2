@@ -28,6 +28,8 @@ public class DependincyInjectionApplication {
 		 * Coche coche = new Coche("VW", 1986, motor);
 		 
 		System.out.println(coche);*/
+	
+// prueba desde hp
 		
 	}
 
