@@ -22,14 +22,9 @@ public class DependincyInjectionApplication {
 	
 	System.out.println(coche);
 		
-		/*
-		 * Motor motor = new Motor("Z11", 1996);
-		 * 
-		 * Coche coche = new Coche("VW", 1986, motor);
-		 
-		System.out.println(coche);*/
+		/* INYECCION POR CONSTRUCTOR*/
 	
-// prueba desde hp
+
 		
 	}
 
